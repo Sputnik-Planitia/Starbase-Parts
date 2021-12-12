@@ -1,7 +1,19 @@
 # Starbase-Parts
 This is a mod that gives you StarBase parts such as the High Bay, etc.
 
-Currently only has the High Bay.
+# Currently Contains
+- High Bay
+- Wide Bay
+
+# Future Parts
+- Suborbital Tank Farm
+- GSE Mounts (For Starship Launch Expansion's GSE Tanks)
+- Dirt Sand Hill 
+- Mid Bay
+- Low Bay
+- Walls
+- Tents
+- Custom Buildings for a Martian Starbase
 
 # Dependencies
 Kerbal Konstructs
