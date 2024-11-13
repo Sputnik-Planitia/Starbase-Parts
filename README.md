@@ -1,3 +1,5 @@
+This mod has been abandoned, I no longer have the time or motivation to work on this mod.
+
 # Starbase-Parts
 This is a mod that gives you StarBase parts such as the High Bay, etc.
 
@@ -33,7 +35,4 @@ Starship Expansion Project  |  https://github.com/Kari1407/Starship-Expansion-Pr
 Starship Launch Expansion  |   https://github.com/SAMCG14/StarshipLaunchExpansion
 
 # LICENSE
-All assets (I.E Textures and Models) are distributed under an All Rights Reserved License.
-All Configs are under the CC-NC-SA-4.0 License.
-
-CC-NC-SA-4.0 License   |   https://creativecommons.org/licenses/by-nc-sa/4.0/
+Everything is under the CC-NC-SA-4.0 License   |   https://creativecommons.org/licenses/by-nc-sa/4.0/
